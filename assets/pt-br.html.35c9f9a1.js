@@ -1,0 +1,1 @@
+const t={key:"v-1b413976",path:"/statuses/pt-br.html",title:"pt_BR",lang:"en-US",frontmatter:{editLink:!1},excerpt:"",headers:[{level:3,title:"pt_BR",slug:"pt-br-1",children:[]}],git:{updatedTime:165591099e4},filePathRelative:"statuses/pt-br.md"};export{t as data};
